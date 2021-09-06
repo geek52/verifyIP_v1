@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92dcc783-76b1-4cfb-bd27-84a8e96dbe5d" name="Default Changelist" comment="验证IP地址是否有效1w" />
+    <list default="true" id="92dcc783-76b1-4cfb-bd27-84a8e96dbe5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vip_th.py" beforeDir="false" afterPath="$PROJECT_DIR$/vip_th.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,6 +200,7 @@
       <workItem from="1630799874378" duration="4143000" />
       <workItem from="1630908033916" duration="9344000" />
       <workItem from="1630923495780" duration="1000" />
+      <workItem from="1630923505603" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="验证IP地址是否有效">
       <created>1630920681801</created>
@@ -220,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630921075914</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="验证IP地址是否有效1w">
+      <created>1630923752316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630923752316</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +264,11 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
@@ -267,7 +282,8 @@
     <MESSAGE value="验证IP地址是否有效" />
     <MESSAGE value="验证IP地址是否有效12" />
     <MESSAGE value="验证IP地址是否有效1" />
-    <option name="LAST_COMMIT_MESSAGE" value="验证IP地址是否有效1" />
+    <MESSAGE value="验证IP地址是否有效1w" />
+    <option name="LAST_COMMIT_MESSAGE" value="验证IP地址是否有效1w" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

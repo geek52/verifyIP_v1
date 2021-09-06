@@ -163,7 +163,7 @@ class vip_Play(threading.Thread):
                 proxy=Proxy()
                 stauts=proxy.check_proxy(proxys)
                 #print("{}成功".format(proxys)+"状态:{}".format(str(stauts)))
-                time.sleep(1)
+                time.sleep(2)
                 proxy_queue.task_done()
                # print('{}验证结束'.format(proxys))
             else:
