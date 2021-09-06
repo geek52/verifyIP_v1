@@ -174,7 +174,7 @@ class vip_Play(threading.Thread):
 
 if __name__ == '__main__':
 
-        # http://httpbin.org/ip
+        # http://httpbin.org/ip1
         # https://www.ip.cn/api/index?ip=&type=0
         start_time = time.time()  # 开始计时
         mc_thread = Queue_proxy('Queue_proxy')
